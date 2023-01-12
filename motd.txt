@@ -5,7 +5,7 @@ added currency
 added name changing and saving
 added bans and mod only things
 reworked multiplayer
-added a speaker
+added a speaker (Credits to debil | lithuania on disc for the song)
 added 2 more server change buttons
 fixed alot of bugs
 remade the og game (Btw: Monkey Playground is now discontinued)
