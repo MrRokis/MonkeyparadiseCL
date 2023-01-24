@@ -1,12 +1,8 @@
-Changes:
-Made a new horror map
-Made cosmetics work
-added currency
-added name changing and saving
-added bans and mod only things
-reworked multiplayer
-added a speaker (Credits to debil | lithuania on disc for the song)
-added 2 more server change buttons
-fixed alot of bugs
-remade the og game (Btw: Monkey Playground is now discontinued)
-released on app lab (again)
+Update V2.0 changes:
+Made a new cosmetic
+Made the keyboards black for it to be seen better
+Remade the AI model
+Made the entrance for level 2 in mines
+Added new music made by Strikeable aka debil | lithuania
+Changed it so that the body moves with your head
+Made the name apear on the body
