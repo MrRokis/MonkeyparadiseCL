@@ -1,8 +1,7 @@
-Update V2.0 changes:
-Made a new cosmetic
-Made the keyboards black for it to be seen better
-Remade the AI model
-Made the entrance for level 2 in mines
-Added new music made by Strikeable aka debil | lithuania
-Changed it so that the body moves with your head
-Made the name apear on the body
+Update V2.2 changes:
+Added server sided cosmetics
+Fixed a bug where a tree had no collision
+Fixed the AI's facing position (also removed arms)
+Added a credits board
+Tried to fix the voice chat feature where the voices sound very far away
+Fixed voice chat audio being only played on the right speaker
