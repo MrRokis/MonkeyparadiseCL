@@ -1,7 +1,6 @@
-Update V2.2 changes:
-Added server sided cosmetics
-Fixed a bug where a tree had no collision
-Fixed the AI's facing position (also removed arms)
-Added a credits board
-Tried to fix the voice chat feature where the voices sound very far away
-Fixed voice chat audio being only played on the right speaker
+Update V4.0 changes:
+Made a new horror map
+You now have to press a button located somewhere in level 1 to access level 2
+Fixed bugs
+You now have to press on of the 3 buttons to access multiplayer
+Fixed some moderator only stuff
