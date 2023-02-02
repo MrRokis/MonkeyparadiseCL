@@ -1,6 +1,4 @@
-Update V4.0 changes:
-Made a new horror map
-You now have to press a button located somewhere in level 1 to access level 2
-Fixed bugs
-You now have to press on of the 3 buttons to access multiplayer
-Fixed some moderator only stuff
+Update V4.5 changes:
+Added more hitsounds
+Fixed AI bugs in level 2
+Fixed other bugs
